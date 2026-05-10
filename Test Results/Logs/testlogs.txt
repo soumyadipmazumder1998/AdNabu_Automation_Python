@@ -1,6 +1,6 @@
-2026-05-10 16:34:58,544 - INFO - Login screen opened
-2026-05-10 16:35:01,027 - INFO - Homepage opened
-2026-05-10 16:35:01,774 - INFO - Search box visible
-2026-05-10 16:35:03,558 - INFO - Search results opened
-2026-05-10 16:35:05,040 - INFO - Product is opened
-2026-05-10 16:35:10,314 - INFO - Product added to cart
+2026-05-10 17:53:33,835 - INFO - Login screen opened
+2026-05-10 17:53:36,315 - INFO - Homepage opened
+2026-05-10 17:53:36,937 - INFO - Search box visible
+2026-05-10 17:53:38,889 - INFO - Search results opened
+2026-05-10 17:53:40,329 - INFO - Product is opened
+2026-05-10 17:53:45,598 - INFO - Product added to cart
