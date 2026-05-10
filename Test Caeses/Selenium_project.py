@@ -73,5 +73,4 @@ if(driver.find_element(By.XPATH, "//h2[contains(text(),'Your cart')]").is_displa
 else:
     logging.error("Product not added to cart")
     print("Product not added to cart")
-
 driver.quit()
